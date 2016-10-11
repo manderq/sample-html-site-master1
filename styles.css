@@ -1,18 +1,39 @@
 body {
-  font-family: "Gill Sans MT", sans-serif;
+  font-family: "Traveling _Typewriter", sans-serif;
 }
 
 h2 {
   color: #db7093;
 }
 
+h1 {
+  text-align: center;
+  border-style: dashed;
+}
+
+
+
+#policy {
+  text-align: center;
+  border-style: dashed;
+}
 #contact {
   background-color: #f5fffa;
   padding: 2%;
 }
+
 #mission {
   background-color: #e6e6fa;
   padding: 2%;
+}
+
+#Stella {
+  float:left;
+  margin-right: 25em;
+}
+#hair {
+  float:left;
+  margin-right: 10em;
 }
 p {
   color: #000000
