@@ -2,49 +2,49 @@
 <website>
 <name> Stella and Rosie's Cat Rescue</name>
 <website category="History">
-<content>Stella and Rosie’s Cat Rescue Center was inspired by our founders two cats, Stella and Rosie, who were previously held at a local rescue center.  When searching for cats online and at local humane societies, our founder was shocked by the number of cats who did not have homes. She found that many of these cats were not desirable, to some people, because of training issues. From that moment on, she knew she wanted to create a rescue center focused solely on cat rescue and rehabilitation. The two cats pictured below are the founders cats, Stella (on the left) and Rosie (on the right).</content>
+<history>Stella and Rosie’s Cat Rescue Center was inspired by our founders two cats, Stella and Rosie, who were previously held at a local rescue center.  When searching for cats online and at local humane societies, our founder was shocked by the number of cats who did not have homes. She found that many of these cats were not desirable, to some people, because of training issues. From that moment on, she knew she wanted to create a rescue center focused solely on cat rescue and rehabilitation. The two cats pictured below are the founders cats, Stella (on the left) and Rosie (on the right).</history>
 </category>
 
 <website category="Mission">
-<title>Endorse</title>
-<tag>Donate to Stella and Rosie's Cat Rescue!</tag>
+<Endorse>Endorse</Endorse>
+<donate>Donate to Stella and Rosie's Cat Rescue!</donate>
 <content>We are a nonprofit organization who rely on donations to keep our doors open.  By endorsing Stella and Rosie's Cat Rescue, you are helping cats find forever homes and keeping them off of the streets.</content>
 
-<title>Embrace</title>
-<tag>Adopt a cat who needs a loving home!</tag>
+<Embrace>Embrace</Embrace>
+<adopt>Adopt a cat who needs a loving home!</adopt>
 <content>Stella and Rosie's Cat Rescue is focused on finding homes for cats only.  Therefore, you can be sure our cats are receiving the best care and resources</content>
 
-<title>Empower</title>
-<tag>Help you cat be the best family member!</tag>
+<Empower>Empower</Empower>
+<training>Help you cat be the best family member!</training>
 <content>With our exclusive state of the art cat training facilities, you can be sure that your "not so polite kitty" will learn cat etiquette to become a well behaved member of the family</content>
 
-<title>Educate</title>
-<tag>Create awareness in the local community!</tag>
+<Educate>Educate</Educate>
+<community>Create awareness in the local community!</community>
 <content>We are dedicated to educating the community about homeless cats.  We help you to understand the responsibilities of adopting a cat and the joys of adding them to your family</content>
 </category>
 
 <website category="Policy">
-<title>Top to Bottom Cat PLAY ZONE</title>
+<playzone>Top to Bottom Cat PLAY ZONE</playzone>
 <content>The floors to the ceiling are designed for cat play and climbing</content>
 
-<title>100% Cage-les</title>
+<cage-less>100% Cage-les</cage-less>
 <content> All cats are trained to enjoy the company of other cats. </content>
 
-<title>No Kill </title>
+<no kill>No Kill </no kill>
 <content> No cats are killed for any reason, ever.</content>
 
-<title>24/7 Care Staff </title>
+<care staff>24/7 Care Staff </care staff>
 <content> Cats are never left alone and are watched day and night. </content>
 
-<title>Affordable</title>
+<cost>Affordable</cost>
 <content> Adoptable cats are services are cost friendly, and prices are never increased based on demand. </content>
 
-<title>Experienced Staff</title>
+<expertise>Experienced Staff</expertise>
 <content>All Staff members are cat aficionados. </content>
 </category>
 
 <website category="Contact Information">
-<address>2701 4th st se, Minneapolis, MN, 55414 </address>
+<address>2701 4th St Se, Minneapolis, MN, 55414 </address>
 <phone>612-619-3003</phone>
 <email>fetti013@umn.edu</email>
 </category>
